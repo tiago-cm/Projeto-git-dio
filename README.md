@@ -5,3 +5,4 @@
 
 - Pão de Queijo
 - Massa de Pastel
+- torta de palmito
